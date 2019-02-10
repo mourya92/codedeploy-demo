@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/etc/init.d/httpd start
+service httpd start
